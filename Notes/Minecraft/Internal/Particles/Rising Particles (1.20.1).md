@@ -1,11 +1,12 @@
+# Rising Particles
 
-Supposed formula for the direction of rising particles (e.g. flame particles):
+Supposed random formula for the direction of rising particles (e.g. flame particles):
 	~={yellow} (8.0D / (Math.random() * 0.8D + 0.2D)) + 4
 	~={clear} Class: ~={cyan} net.minecraft.client.particle.RisingParticle
-~={clear}This was found from the constructor.
+ **~={clear}This was found inside the constructor.
 
 
-tick() method found in the ~={cyan}net.minecraft.client.particle.Particle ~={clear}class
+~={clear}tick() method found in the ~={cyan}net.minecraft.client.particle.Particle ~={clear}class
 ```
 public void tick() {  
    this.xo = this.x;  
