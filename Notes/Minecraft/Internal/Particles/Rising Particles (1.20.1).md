@@ -3,7 +3,10 @@
 Supposed random formula for the direction of rising particles (e.g. flame particles):
 
 ```java
-(8.0D / (Math.random() * 0.8D + 0.2D)) + 4
+this.x += (double)((this.random.nextFloat() - this.random.nextFloat()) * 0.05F);  
+this.y += (double)((this.random.nextFloat() - this.random.nextFloat()) * 0.05F);  
+this.z += (double)((this.random.nextFloat() - this.random.nextFloat()) * 0.05F);  
+this.lifetime = (int)(8.0D / (Math.random() * 0.8D + 0.2D)) + 4;
 ```
 
 ~={clear}Found inside constructor of ~={cyan} net.minecraft.client.particle.RisingParticle
