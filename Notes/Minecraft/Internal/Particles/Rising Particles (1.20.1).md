@@ -1,13 +1,14 @@
 # Rising Particles
 
 Supposed random formula for the direction of rising particles (e.g. flame particles):
+
 	~={yellow} (8.0D / (Math.random() * 0.8D + 0.2D)) + 4
-	~={clear} Class: ~={cyan} net.minecraft.client.particle.RisingParticle
- **~={clear}This was found inside the constructor.
+
+~={clear}Found inside constructor of ~={cyan} net.minecraft.client.particle.RisingParticle
 
 
 ~={clear}tick() method found in the ~={cyan}net.minecraft.client.particle.Particle ~={clear}class
-```
+```java
 public void tick() {  
    this.xo = this.x;  
    this.yo = this.y;  
@@ -36,10 +37,9 @@ public void tick() {
 ``` 
 
 
-This line
-```
+These lines indicates the the coordinate variables that end with d mean the friction, not sure yet.
+```java
 this.xd *= (double)this.friction;  
 this.yd *= (double)this.friction;  
 this.zd *= (double)this.friction;
 ```
-indicates the the coordinate variables that end with d mean the friction, not sure yet.
