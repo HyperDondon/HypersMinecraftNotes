@@ -12,8 +12,8 @@ Made for people who play Minecraft with friends in their own server.
 ## General oriented plugins
 Plugins that have use cases for both audiences.
 Examples:
-	ItemsAdder
-	Mythic Suite
+- ItemsAdder
+- Mythic Suite
 
 ## And this is why customization is very big!
 Your plugin needs to be customizable so your plugin can fit the needs for both types of buyers. Also make sure your plugin is NOT TOO CHEAP: you will attract the wrong buyers, they will leave a bad review and ask for a refund. You can also attract stupid people who will file a chargeback than simply asking for a refund. Make sure you make everything clear and making your plugin easy to understand to make sure people don't do this to you.

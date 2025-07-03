@@ -1,3 +1,3 @@
 # Introduction
 
-Hello, I am HyperDondon and I am planning on become an expert in everything about Minecraft. I want to achieve one of these goals in my life: work at a big network, create a successful plugin creation business, or have my network. I've created these notes so I remember things and so I don't struggle when creating things for stuff I've noted. I've decided to make these public to benefit you guys.
+Hello, I am HyperDondon and I am planning on become an expert in everything about Minecraft. I want to achieve one of these goals in my life: work at a big network, create a successful plugin creation business, or have my own network. I've created these notes so I remember things and so I don't struggle when creating things for stuff I've noted. I've decided to make these public to benefit you guys.
