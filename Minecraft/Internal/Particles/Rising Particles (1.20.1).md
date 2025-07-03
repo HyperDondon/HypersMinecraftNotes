@@ -12,7 +12,7 @@ this.lifetime = (int)(8.0D / (Math.random() * 0.8D + 0.2D)) + 4;
 Found inside constructor of net.minecraft.client.particle.RisingParticle
 
 
-tick() method found in the net.minecraft.client.particle.Particle ~={clear}class
+tick() method found in the net.minecraft.client.particle.Particle class
 ```java
 public void tick() {  
    this.xo = this.x;  
