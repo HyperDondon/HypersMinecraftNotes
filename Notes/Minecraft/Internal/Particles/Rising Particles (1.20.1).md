@@ -9,10 +9,10 @@ this.z += (double)((this.random.nextFloat() - this.random.nextFloat()) * 0.05F);
 this.lifetime = (int)(8.0D / (Math.random() * 0.8D + 0.2D)) + 4;
 ```
 
-~={clear}Found inside constructor of ~={cyan} net.minecraft.client.particle.RisingParticle
+Found inside constructor of net.minecraft.client.particle.RisingParticle
 
 
-~={clear}tick() method found in the ~={cyan}net.minecraft.client.particle.Particle ~={clear}class
+tick() method found in the net.minecraft.client.particle.Particle ~={clear}class
 ```java
 public void tick() {  
    this.xo = this.x;  
