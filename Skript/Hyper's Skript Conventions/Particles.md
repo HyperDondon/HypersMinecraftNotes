@@ -13,6 +13,6 @@ It does nothing but cause confusion.
 
 
 # Vectors
-For vectors, avoid using the ```[the] vector (from|between) %location% (to|and) %location%``` (syntax)[https://skripthub.net/docs/?id=874].
+For vectors, avoid using the ```[the] vector (from|between) %location% (to|and) %location%``` [syntax](https://skripthub.net/docs/?id=874).
 
 Use it if you need to. But don't use these for expanding circles. It can get confusing and complex (trust me).

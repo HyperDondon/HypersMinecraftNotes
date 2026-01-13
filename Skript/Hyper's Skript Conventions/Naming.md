@@ -39,7 +39,7 @@ function removeLife(player: player):
 
 # Custom Syntax
 
-For things that you're going to release publicly, you must include custom syntax. Read the (skript-reflect documentation)[https://tpgamesnl.gitbook.io/skript-reflect/advanced/custom-syntax]
+For things that you're going to release publicly, you must include custom syntax. Read the [skript-reflect documentation](https://tpgamesnl.gitbook.io/skript-reflect/advanced/custom-syntax)
 
 Ex.
 ```vb
